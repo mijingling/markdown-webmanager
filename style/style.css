@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+ul{
+ width:90%;
+ overflow:auto;
+ }
+ul li{
+ float:left;
+ width:60%;
+ }
+ .operate{
+ 	float:right;
+ 	width:200px;
+ }
